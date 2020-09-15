@@ -1,0 +1,26 @@
+.random-tanks {
+  display: flex;
+  padding: 1rem;
+  border: 1px solid #444;
+  margin-bottom: 1rem;
+}
+
+.random-tanks .tanks-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin-right: 1rem;
+  object-fit: scale-down;
+}
+
+.random-tanks .list-group {
+  margin: 1rem 0 0 1rem;
+}
+
+.random-tanks .list-group-item {
+  padding: .25rem;
+}
+
+.random-tanks .list-group-item .term {
+  margin-right: .5rem;
+}

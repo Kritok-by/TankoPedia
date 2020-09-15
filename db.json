@@ -1,0 +1,202 @@
+{
+    "heavy": [{
+            "id": 1,
+            "name": "ИС-4",
+            "damage": "390 / 390 / 530 ед.",
+            "breaking_through": "217 / 270 / 61 мм",
+            "weight": "60,02 т",
+            "strength": "2 500 ед.",
+            "body_armor": "155 / 160 / 100 мм",
+            "tower_armor": "250 / 200 / 170 мм",
+            "url": "http://localhost:3000/heavy/1"
+        },
+        {
+            "id": 2,
+            "name": "ОБЪЕКТ 705А",
+            "damage": "650 / 650 / 840 ед.",
+            "breaking_through": "256 / 317 / 90 мм",
+            "weight": "100 т",
+            "strength": "2 450 ед.",
+            "body_armor": "175 / 100 / 60 мм",
+            "tower_armor": "330 / 180 / 120 мм",
+            "url": "http://localhost:3000/heavy/2"
+        },
+        {
+            "id": 3,
+            "name": "MAUS",
+            "damage": "490 / 490 / 630 ед.",
+            "breaking_through": "246 / 311 / 65 мм",
+            "weight": "188,98 т",
+            "strength": "3 000 ед.",
+            "body_armor": "200 / 185 / 160 мм",
+            "tower_armor": "260 / 210 / 210 мм",
+            "url": "http://localhost:3000/heavy/3"
+        },
+        {
+            "id": 4,
+            "name": "VK 72.01 (K)",
+            "damage": "750 / 750 / 950 ед.",
+            "breaking_through": "246 / 350 / 85 мм",
+            "weight": "120 т",
+            "strength": "2 500 ед.",
+            "body_armor": "240 / 160 / 120 мм",
+            "tower_armor": "200 / 160 / 120 мм",
+            "url": "http://localhost:3000/heavy/4"
+        },
+        {
+            "id": 5,
+            "name": "T110E5",
+            "damage": "400 / 400 / 515 ед.",
+            "breaking_through": "258 / 340 / 60 мм",
+            "weight": "53,76 т",
+            "strength": "2 200 ед.",
+            "body_armor": "254 / 76 / 38 мм",
+            "tower_armor": "203 / 127 / 76 мм",
+            "url": "http://localhost:3000/heavy/5"
+        },
+        {
+            "id": 6,
+            "name": "WZ-111 MODEL 5A",
+            "damage": "490 / 490 / 640 ед.",
+            "breaking_through": "250 / 340 / 65 мм",
+            "weight": "50 т",
+            "strength": "2 200 ед.",
+            "body_armor": "140 / 120 / 60 мм",
+            "tower_armor": "300 / 180 / 60 мм",
+            "url": "http://localhost:3000/heavy/6"
+        },
+        {
+            "id": 7,
+            "name": "AMX M4 MLE. 54",
+            "damage": "400 / 400 / 515 ед.",
+            "breaking_through": "264 / 315 / 65 мм",
+            "weight": "79,88 т",
+            "strength": "2 200 ед.",
+            "body_armor": "220 / 60 / 40 мм",
+            "tower_armor": "300 / 80 / 40 мм",
+            "url": "http://localhost:3000/heavy/7"
+        },
+        {
+            "id": 8,
+            "name": "FV215B",
+            "damage": "400 / 400 / 515 ед.",
+            "breaking_through": "259 / 326 / 120 мм",
+            "weight": "70 т",
+            "strength": "2 500 ед.",
+            "body_armor": "152 / 101 / 76 мм",
+            "tower_armor": "254 / 152 / 101 мм",
+            "url": "http://localhost:3000/heavy/8"
+        },
+        {
+            "id": 9,
+            "name": "TYPE 5 HEAVY",
+            "damage": "900 / 900 ед.",
+            "breaking_through": "75 / 192 мм",
+            "weight": "151,10 т",
+            "strength": "2 900 ед.",
+            "body_armor": "270 / 160 / 150 мм",
+            "tower_armor": "280 / 210 / 200 мм",
+            "url": "http://localhost:3000/heavy/9"
+        },
+        {
+            "id": 10,
+            "name": "KRANVAGN",
+            "damage": "440 / 440 / 530 ед.",
+            "breaking_through": "252 / 300 / 60 мм",
+            "weight": "44,80 т",
+            "strength": "2 000 ед.",
+            "body_armor": "90 / 70 / 37 мм",
+            "tower_armor": "225 / 70 / 37 мм",
+            "url": "http://localhost:3000/heavy/10"
+        },
+        {
+            "id": 11,
+            "name": "60TP LEWANDOWSKIEGO",
+            "damage": "750 / 750 / 950 ед.",
+            "breaking_through": "250 / 317 / 90 мм",
+            "weight": "60,13 т",
+            "strength": "2 600 ед.",
+            "body_armor": "160 / 100 / 90 мм",
+            "tower_armor": "260 / 150 / 100 мм",
+            "url": "http://localhost:3000/heavy/11"
+        }
+    ],
+    "premium": [{
+            "id": 1,
+            "name": "ОБЪЕКТ 252У ЗАЩИТНИК  [TEST DATA]",
+            "rapidity": "4 выстр/мин",
+            "strength": "1 500 ед.",
+            "overview": "350 м"
+        },
+        {
+            "id": 2,
+            "name": "RHEINMETALL SKORPION G [TEST DATA]",
+            "rapidity": "4,92 выстр/мин",
+            "strength": "2 409 ед.",
+            "overview": "360 м"
+        },
+        {
+            "id": 3,
+            "name": "TS-5 [TEST DATA]",
+            "rapidity": "7,06 выстр/мин",
+            "strength": "1 500 ед.",
+            "overview": "370 м"
+        },
+        {
+            "id": 4,
+            "name": "TYPE 59 [TEST DATA]",
+            "rapidity": "7,14 выстр/мин",
+            "strength": "1 300 ед.",
+            "overview": "380 м"
+        },
+        {
+            "id": 5,
+            "name": "ELC EVEN 90 [TEST DATA]",
+            "rapidity": "5,14 выстр/мин",
+            "strength": "900 ед.",
+            "overview": "380 м"
+        },
+        {
+            "id": 6,
+            "name": "CHIEFTAIN/T95 [TEST DATA]",
+            "rapidity": "7,23 выстр/мин",
+            "strength": "1 400 ед.",
+            "overview": "380 м"
+        },
+        {
+            "id": 7,
+            "name": "STA-2 [TEST DATA]",
+            "rapidity": "8 выстр/мин",
+            "strength": "1 420 ед.",
+            "overview": "380 м"
+        },
+        {
+            "id": 8,
+            "name": "ŠKODA T 27 [TEST DATA]",
+            "rapidity": "6,52 выстр/мин",
+            "strength": "1 350 ед.",
+            "overview": "380 м"
+        },
+        {
+            "id": 9,
+            "name": "STRV S1 [TEST DATA]",
+            "rapidity": "5,88 выстр/мин",
+            "strength": "1 000 ед.",
+            "overview": "350 м"
+        },
+        {
+            "id": 10,
+            "name": "50TP PROTOTYP [TEST DATA]",
+            "rapidity": "4,23 выстр/мин",
+            "strength": "1 500 ед.",
+            "overview": "380 м"
+        },
+        {
+            "id": 11,
+            "name": "PROGETTO M35 MOD. 46 [TEST DATA]",
+            "rapidity": "6 - 8 выстр/мин",
+            "strength": "1 400 ед.",
+            "overview": "390 м"
+        }
+    ]
+}

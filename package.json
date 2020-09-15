@@ -1,0 +1,24 @@
+{
+  "name": "react-tankopedia",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "history": "^5.0.0",
+    "history.js": "^1.8.0",
+    "json-server": "^0.16.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "1.1.5",
+    "serve": "^11.3.2"
+  },
+  "scripts": {
+    "start": "PORT=3006 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "fake-json": "json-server --watch db.json"
+  }
+}
